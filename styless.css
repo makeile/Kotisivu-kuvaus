@@ -1,0 +1,28 @@
+.bodi{
+    background-color: rgba(114, 147, 195, 0.768);
+
+}
+.tietoja {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.sivu {
+   
+}
+body{
+    background-color: aqua;
+}
+.footteri{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.kuvat {
+    background-color: hsla(216, 25%, 54%, 0.623);
+    
+}
+.fo{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
